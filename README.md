@@ -1,4 +1,6 @@
-# smith
+# Smith_Agentic_CLI
+
+> Terminal interface for [Smith_Agentic](https://github.com/AddisonTech/Smith_Agentic) -- run agent crews, stream output, and manage jobs without leaving your shell.
 
 A terminal CLI for [Smith_Agentic](https://github.com/AddisonTech/Smith_Agentic). Start crew runs, stream output, manage files, and cancel jobs — all without leaving your terminal.
 
