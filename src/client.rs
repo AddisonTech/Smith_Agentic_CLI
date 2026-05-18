@@ -30,6 +30,7 @@ pub struct StartRunResponse {
 }
 
 #[derive(Deserialize)]
+#[allow(dead_code)]
 pub struct RunStatus {
     pub run_id: String,
     pub status: String,
@@ -49,6 +50,7 @@ pub struct OutputsResponse {
 }
 
 #[derive(Deserialize)]
+#[allow(dead_code)]
 pub struct CancelResponse {
     pub run_id: String,
     pub status: String,
